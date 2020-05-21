@@ -1,4 +1,3 @@
 #Example file for test
-#rararat7774
 #ping34
 Build by Jenkins Build# 18
